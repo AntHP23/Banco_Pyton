@@ -1,0 +1,5 @@
+1,adam,1234,19.75
+2,maria,senhasecreta,500.50
+3,antonio henrique,12345678,1670.00
+4,victor,qwertyui,90
+5,ricardo ferraz,zxcvbnma,100.01
